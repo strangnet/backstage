@@ -1,5 +1,15 @@
 # @backstage/plugin-register-component
 
+## 0.2.2
+
+### Patch Changes
+
+- 2a71f4bab: Remove catalog link on validate popup
+- Updated dependencies [475fc0aaa]
+- Updated dependencies [1185919f3]
+  - @backstage/core@0.3.2
+  - @backstage/catalog-model@0.2.1
+
 ## 0.2.1
 
 ### Patch Changes
